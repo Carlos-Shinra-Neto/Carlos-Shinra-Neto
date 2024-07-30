@@ -48,7 +48,7 @@ Com sólida experiência como Desenvolvedor Full Stack (Angular, Java) ao longo 
 ## 🖥️ Minhas Experiências:
 
 ### SirProject Recife, Brasil
-#### DESENVOLVEDOR FULL STACK E COOFUNDADOR Março 2023 ‐ Atual
+#### DESENVOLVEDOR FULL STACK Março 2023 ‐ Atual
 
 - Desenvolvimento de aplicações Java, com Spring Boot, JPA, PrimeFaces, Postman e MySQL.
 - Desenvolvimento de aplicações web, com Angular, Angular Material, HTML5, CSS3, SCSS e TypeScript.
